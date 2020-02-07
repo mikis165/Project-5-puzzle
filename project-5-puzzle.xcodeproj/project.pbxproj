@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5658FCB023DB03D100C21D7C /* Creation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5658FCAF23DB03D100C21D7C /* Creation.swift */; };
+		5658FCB223DB041300C21D7C /* ColorSwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5658FCB123DB041300C21D7C /* ColorSwatch.swift */; };
 		568DBBCD23B7BDF5008C5630 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568DBBCC23B7BDF5008C5630 /* AppDelegate.swift */; };
 		568DBBCF23B7BDF5008C5630 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568DBBCE23B7BDF5008C5630 /* SceneDelegate.swift */; };
 		568DBBD123B7BDF5008C5630 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568DBBD023B7BDF5008C5630 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5658FCAF23DB03D100C21D7C /* Creation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Creation.swift; sourceTree = "<group>"; };
+		5658FCB123DB041300C21D7C /* ColorSwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSwatch.swift; sourceTree = "<group>"; };
 		568DBBC923B7BDF5008C5630 /* project-5-puzzle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "project-5-puzzle.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		568DBBCC23B7BDF5008C5630 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		568DBBCE23B7BDF5008C5630 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +28,7 @@
 		568DBBD523B7BDF5008C5630 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		568DBBD823B7BDF5008C5630 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		568DBBDA23B7BDF5008C5630 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56CD329023DB57D00061848F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +42,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5658FCAE23DAF9BB00C21D7C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5658FCAF23DB03D100C21D7C /* Creation.swift */,
+				5658FCB123DB041300C21D7C /* ColorSwatch.swift */,
+			);
+			name = Model;
+			path = "project-5-puzzle/Model";
+			sourceTree = SOURCE_ROOT;
+		};
 		568DBBC023B7BDF5008C5630 = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +71,7 @@
 		568DBBCB23B7BDF5008C5630 /* project-5-puzzle */ = {
 			isa = PBXGroup;
 			children = (
+				5658FCAE23DAF9BB00C21D7C /* Model */,
 				568DBBCC23B7BDF5008C5630 /* AppDelegate.swift */,
 				568DBBCE23B7BDF5008C5630 /* SceneDelegate.swift */,
 				568DBBD023B7BDF5008C5630 /* ViewController.swift */,
@@ -140,7 +156,9 @@
 			files = (
 				568DBBD123B7BDF5008C5630 /* ViewController.swift in Sources */,
 				568DBBCD23B7BDF5008C5630 /* AppDelegate.swift in Sources */,
+				5658FCB023DB03D100C21D7C /* Creation.swift in Sources */,
 				568DBBCF23B7BDF5008C5630 /* SceneDelegate.swift in Sources */,
+				5658FCB223DB041300C21D7C /* ColorSwatch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,6 +169,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				568DBBD323B7BDF5008C5630 /* Base */,
+				56CD329023DB57D00061848F /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

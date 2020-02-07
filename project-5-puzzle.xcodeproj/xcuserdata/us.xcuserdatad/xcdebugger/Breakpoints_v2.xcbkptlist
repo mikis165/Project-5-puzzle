@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C2E9F99B-0299-48E1-9152-9F9E8316D0F1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C74CC6EA-9236-49CE-B0A5-D47029BB08E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "project-5-puzzle/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C74CC6EA-9236-49CE-B0A5-D47029BB08E5 - c4ab0e8686ed4984"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_5_puzzle.ViewController.shareButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "project-5-puzzle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/us/Downloads/project-5-puzzle/project-5-puzzle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C74CC6EA-9236-49CE-B0A5-D47029BB08E5 - aaf2474d343f990"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_5_puzzle.ViewController.shareButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "project-5-puzzle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/us/Downloads/project-5-puzzle/project-5-puzzle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C74CC6EA-9236-49CE-B0A5-D47029BB08E5 - fd58a6c3e082ed81"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_5_puzzle.ViewController.shareButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "project-5-puzzle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/us/Downloads/project-5-puzzle/project-5-puzzle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "C74CC6EA-9236-49CE-B0A5-D47029BB08E5 - 908dcf7898b53144"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_5_puzzle.ViewController.shareButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "project-5-puzzle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/us/Downloads/project-5-puzzle/project-5-puzzle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "C74CC6EA-9236-49CE-B0A5-D47029BB08E5 - b156536f6069b1ba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_5_puzzle.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; project_5_puzzle.ViewController"
+                  moduleName = "project-5-puzzle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/us/Downloads/project-5-puzzle/project-5-puzzle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "C74CC6EA-9236-49CE-B0A5-D47029BB08E5 - b0c31700add52fbd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_5_puzzle.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;project_5_puzzle.ViewController&gt;"
+                  moduleName = "project-5-puzzle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/us/Downloads/project-5-puzzle/project-5-puzzle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
